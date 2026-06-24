@@ -15,6 +15,20 @@ async function displayHUman() {
 
 displayHUman();
 
+
+
+
+
+async function abcd()
+  {
+    let post = await fetch(`https://jsonplaceholder.typicode.com/posts`);
+    let res = await post.json();
+
+    console.log(res);
+    
+  }
+
+  abcd()
 //async is used to resolve  callback hell and promises
 
 // displayHuman()

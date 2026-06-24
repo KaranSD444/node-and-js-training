@@ -13,4 +13,4 @@ function human(...arr)
 }
 
 
-human("karan",22)()();
+human("karan", 21)()();

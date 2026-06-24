@@ -43,6 +43,8 @@ arr.forEach(function (val) {
 let double = arr.map((arr) => arr * 2); // create a new array
 console.log(double);
 
+
+arr =[ 2,2,312, 12,32];
 let greater12 = arr.filter((arr) => arr > 12); // filter() - Filter values
 console.log(greater12);
 

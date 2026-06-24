@@ -10,3 +10,14 @@ if (human3[2])
     humans.push(...human3);
 }
 console.log(humans);
+
+
+
+let arr= ["karan","shruthi"]
+
+let obj =
+{
+    ...arr,
+    car: "Kia"
+}
+console.log(obj);

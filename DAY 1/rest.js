@@ -5,3 +5,4 @@ function human(...arr)
 
 human("karan",22);
 human("shruthi",25)
+
