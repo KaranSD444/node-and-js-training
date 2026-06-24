@@ -1,15 +1,10 @@
-const talk =  () =>
-{
-    console.log("talking");
-    
-}
+const talk = () => {
+  console.log("talking");
+};
 
 talk();
 
-
-const walk = () => 
-    {
-        console.log("walking");
-        
-    }  
+const walk = () => {
+  console.log("walking");
+};
 walk();

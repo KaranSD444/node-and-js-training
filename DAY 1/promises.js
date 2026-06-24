@@ -1,7 +1,7 @@
 let humanpromise = new Promise((resolve, reject) => {
   let healthy = true;
 
-  if (healthy === true) {
+  if (healthy) {
     resolve("Pateint is healthy");
   } else {
     reject("Failure");
