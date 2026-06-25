@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Karan",
+    "age": 22,
+    "designation": "Software Engineer",
+    "salary": 50000,
+    "address": "Bangalore, Karnataka"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "age": 23,
+    "designation": "Frontend Developer",
+    "salary": 55000,
+    "address": "Mysore, Karnataka"
+  },
+  {
+    "0": {
+      "salary": 60000,
+      "designation": "Senior QA Engineer"
+    },
+    "id": 3,
+    "name": "Amit",
+    "age": 21,
+    "designation": "QA Engineer",
+    "salary": 45000,
+    "address": "Hubli, Karnataka"
+  },
+  {
+    "id": 4,
+    "name": "Priya",
+    "age": 24,
+    "designation": "HR Executive",
+    "salary": 48000,
+    "address": "Belagavi, Karnataka"
+  },
+  {
+    "id": 5,
+    "name": "Sneha",
+    "age": 22,
+    "designation": "Business Analyst",
+    "salary": 52000,
+    "address": "Mangalore, Karnataka"
+  },
+  {
+    "id": 6,
+    "name": "Arjun",
+    "age": 25,
+    "designation": "Backend Developer",
+    "salary": 65000,
+    "address": "Davangere, Karnataka"
+  },
+  {
+    "id": 7,
+    "name": "Neha",
+    "age": 23,
+    "designation": "UI/UX Designer",
+    "salary": 50000,
+    "address": "Tumkur, Karnataka"
+  },
+  {
+    "id": 8,
+    "name": "Vikram",
+    "age": 26,
+    "designation": "DevOps Engineer",
+    "salary": 70000,
+    "address": "Shimoga, Karnataka"
+  },
+  {
+    "id": 9,
+    "name": "Anjali",
+    "age": 21,
+    "designation": "Data Analyst",
+    "salary": 55000,
+    "address": "Udupi, Karnataka"
+  },
+  {
+    "id": 10,
+    "name": "Rohit",
+    "age": 24,
+    "designation": "Project Coordinator",
+    "salary": 60000,
+    "address": "Chitradurga, Karnataka"
+  },
+  {
+    "id": 12,
+    "name": "Meera",
+    "age": 27,
+    "designation": "Software Architect",
+    "salary": 85000,
+    "address": "Bangalore, Karnataka"
+  }
+]
